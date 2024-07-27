@@ -1,0 +1,73 @@
+.m0{
+    width: 750px;
+    height: 750px;
+    background-color: salmon;
+    margin-top: 10%;
+    margin-left: 25%;
+    margin-right: 10%;
+    margin-bottom: 10%;
+}
+header{
+    background-color: cornflowerblue;
+    width: 750px;
+    height: 150px;
+}
+.menu{
+    display: inline-block;
+    width: 300px;
+    height: 560px;
+    background-color: blueviolet;
+    
+}
+.menu1{
+    background-color: crimson;
+    width: 300px;
+    height: 100px;
+    margin-top: 4% ;
+    margin-bottom: 10px;
+    
+}
+.menu2{
+    background-color:brown;
+    width: 300px;
+    height: 100px;
+    margin-bottom: 10px;
+}
+.menu3{
+    background-color:aquamarine;
+    width: 300px;
+    height: 100px;
+    margin-bottom: 10px;
+}
+.penner{
+    background-color: blanchedalmond;
+    width: 450px;
+    height: 200px;
+    float: right;
+    position: relative;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.news{
+    background-color: rgb(30, 184, 255);
+    width: 210px;
+    height: 330px;
+    margin-top: -46%;
+    margin-left: 41%;
+    margin-bottom: 1%;
+}
+.todolist{
+    background-color:lightpink;
+    width: 219px;
+    height: 330px;
+    margin-top: -45%;
+    margin-left: 70%;
+    margin-bottom: 1.4%;
+}
+
+footer{
+    background-color: chartreuse;
+    width: 750px;
+    height: 100px;
+    clear: both;
+}
